@@ -19,3 +19,4 @@ from home import views
 urlpatterns = [
     url(r'^$', views.home_page)
 ]
+
